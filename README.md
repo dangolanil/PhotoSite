@@ -1,25 +1,4 @@
-# README
+Simple PhotoSite in Ruby on Rails deploying to AWS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# PhotoSite
+The purpose of this project is to demonstrate the completion of a Ruby on Rails application implementating a little of a Photo Sharing site along with the data that was pre-entered into a SQL-Lite database. 
+This projects teaches the basics of Ruby on Rails and how to deploy such applications to AWS EC2 (IaaS). It also teaches how setup an S3 bucket and store the photo files there which are then referenced inside your database entries appropriately.
